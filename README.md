@@ -11,7 +11,7 @@
 [![Nipek Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nipek&layout=compact)](https://nipek.github.io)
 
 
-[<img src="https://readme-spotify-status-6h2ta9hvf-olanipekunifeoluwao.vercel.app/" alt="Your alt what" width="500" />](https://nipek.github.io)
+[<img src="https://readme-spotify-status-ffyn06apc-olanipekunifeoluwao.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" />](https://nipek.github.io)
 
 
 
