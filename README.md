@@ -8,6 +8,24 @@
 
 [![Nipek Github Stats](https://github-readme-stats.vercel.app/api?username=nipek&theme=midnight-purple&show_icons=true&hide=stars,issues,contribs&count_private=true&custom_title=Github%20Stats&hide_border=true&include_all_commits=false)](https://nipek.github.io)
 
+### 🛠 Technologies and Tools
+
+[![Linux](https://img.shields.io/static/v1?label=OS&message=Linux&color=informational&style=flat&logo=linux&logoColor=white)](https://nipek.github.io) 
+[![vscode](https://img.shields.io/static/v1?label=Editor&message=VS%20Code&color=informational&style=flat&logo=visualstudiocode&logoColor=white)](https://nipek.github.io)
+[![Bash](https://img.shields.io/static/v1?label=Shell&message=Bash&color=informational&style=flat&logo=gnubash&logoColor=white)](https://nipek.github.io)
+[![AWS](https://img.shields.io/static/v1?label=Cloud&message=AWS&color=informational&style=flat&logo=amazonaws&logoColor=white)](https://nipek.github.io)
+[![Docker](https://img.shields.io/static/v1?label=Tools&message=Docker&color=informational&style=flat&logo=docker&logoColor=white)](https://nipek.github.io)
+[![MongoDB](https://img.shields.io/static/v1?label=Tools&message=MongoDB&color=informational&style=flat&logo=mongodb&logoColor=white)](https://nipek.github.io)
+[![Mysql](https://img.shields.io/static/v1?label=Tools&message=MySQL&color=informational&style=flat&logo=mysql&logoColor=white)](https://nipek.github.io)
+[![Vim](https://img.shields.io/static/v1?label=Code&message=Vim&color=informational&style=flat&logo=vim&logoColor=white)](https://nipek.github.io) 
+[![Typescript](https://img.shields.io/static/v1?label=Code&message=Typescript&color=informational&style=flat&logo=typescript&logoColor=white)](https://nipek.github.io) 
+[![Node.js](https://img.shields.io/static/v1?label=Code&message=Node.js&color=informational&style=flat&logo=javascript&logoColor=white)](https://nipek.github.io)
+[![React](https://img.shields.io/static/v1?label=Code&message=React.js&color=informational&style=flat&logo=react&logoColor=white)](https://nipek.github.io)
+[![React Native](https://img.shields.io/static/v1?label=Code&message=React-Native&color=informational&style=flat&logo=androidstudio&logoColor=white)](https://nipek.github.io)
+[![Golang](https://img.shields.io/static/v1?label=Code&message=Golang&color=informational&style=flat&logo=go&logoColor=white)](https://nipek.github.io)
+
+
+
 [![Nipek Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipek&layout=compact)](https://nipek.github.io)
 
 [![Nipek Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nipek&layout=compact)](https://nipek.github.io)
