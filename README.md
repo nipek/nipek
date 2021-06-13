@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Nipek Bitbucket Commits](https://img.shields.io/badge/Bitbucket%20Commit%202014%20to%20present->2111-informational?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
+![Nipek Bitbucket Commits](https://img.shields.io/badge/Bitbucket%20Commit%202014%20to%20present__>2111__informational?style=flat&logo=bitbucket&logoColor=white&color=2bbc8a)
 
 
 [![Nipek Github Streaks](https://github-readme-streak-stats.herokuapp.com?user=nipek&theme=buefy-dark&hide_border=true)](https://nipek.github.io)
