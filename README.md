@@ -6,7 +6,7 @@
 
 [![Nipek Bitbucket Commits](https://img.shields.io/static/v1?label=Aug%2009%2C%202014%20-%20Present&message=>2,000&color=informational&style=flat&logo=bitbucket&logoColor=white)](https://nipek.github.io)
 
-[![Nipek Github Stats](https://github-readme-stats.vercel.app/api?username=nipek&theme=midnight-purple&show_icons=true&hide=stars,issues,contribs&count_private=true&custom_title=Github%20Stats&hide_border=true&include_all_commits=true)](https://nipek.github.io)
+[![Nipek Github Stats](https://github-readme-stats.vercel.app/api?username=nipek&theme=midnight-purple&show_icons=true&hide=stars,issues,contribs&count_private=true&custom_title=Github%20Stats&hide_border=true&include_all_commits=false)](https://nipek.github.io)
 
 [![Nipek Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipek&layout=compact)](https://nipek.github.io)
 
