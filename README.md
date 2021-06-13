@@ -2,9 +2,9 @@
 
 [![Nipek Github Streaks](https://github-readme-streak-stats.herokuapp.com?user=nipek&theme=buefy-dark&hide_border=true)](https://nipek.github.io)
 
-### Bitbucket Stats
+### Bitbucket Total Commits
 
-[![Nipek Bitbucket Commits](https://img.shields.io/static/v1?label=Aug%2009%2C%202014%20-%20Present&message=>2,012&color=informational&style=flat&logo=bitbucket&logoColor=white)](https://nipek.github.io)
+[![Nipek Bitbucket Commits](https://img.shields.io/static/v1?label=Aug%2009%2C%202014%20-%20Present&message=>2,000&color=informational&style=flat&logo=bitbucket&logoColor=white)](https://nipek.github.io)
 
 [![Nipek Github Stats](https://github-readme-stats.vercel.app/api?username=nipek&theme=midnight-purple&show_icons=true&hide=stars,issues,contribs&count_private=true&custom_title=Github%20Stats&hide_border=true&include_all_commits=true)](https://nipek.github.io)
 
