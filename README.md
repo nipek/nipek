@@ -1,12 +1,3 @@
-### Hi there 👋
-
-[![Nipek Github Streaks](https://github-readme-streak-stats.herokuapp.com?user=nipek&theme=buefy-dark&hide_border=true)](https://nipek.github.io)
-
-### Bitbucket Total Commits
-
-[![Nipek Bitbucket Commits](https://img.shields.io/static/v1?label=Aug%2009%2C%202014%20-%20Present&message=>2,000&color=informational&style=flat&logo=bitbucket&logoColor=white)](https://nipek.github.io)
-
-[![Nipek Github Stats](https://github-readme-stats.vercel.app/api?username=nipek&theme=midnight-purple&show_icons=true&hide=stars,issues,contribs&count_private=true&custom_title=Github%20Stats&hide_border=true&include_all_commits=false)](https://nipek.github.io)
 
 ### 🛠 Technologies and Tools
 
@@ -31,24 +22,9 @@
 
 
 
-[![Nipek Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nipek&layout=compact)](https://nipek.github.io)
 
 [![Nipek Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nipek&layout=compact)](https://nipek.github.io)
 
-
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/olanipekunife
-[2]: https://www.linkedin.com/in/nipek/
 
 
 
