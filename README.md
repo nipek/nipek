@@ -6,7 +6,6 @@
 [![Node.js](https://img.shields.io/static/v1?label=Code&message=Node.js&color=informational&style=flat&logo=javascript&logoColor=white)](https://nipek.github.io)
 [![React](https://img.shields.io/static/v1?label=Code&message=React.js&color=informational&style=flat&logo=react&logoColor=white)](https://nipek.github.io)
 [![React Native](https://img.shields.io/static/v1?label=Code&message=React-Native&color=informational&style=flat&logo=androidstudio&logoColor=white)](https://nipek.github.io)
-[![Golang](https://img.shields.io/static/v1?label=Code&message=Golang&color=informational&style=flat&logo=go&logoColor=white)](https://nipek.github.io)
 [![Mocha](https://img.shields.io/static/v1?label=Code&message=Mocha&color=informational&style=flat&logo=mocha&logoColor=white)](https://nipek.github.io)
 [![Jest](https://img.shields.io/static/v1?label=Code&message=Jest&color=informational&style=flat&logo=jest&logoColor=white)](https://nipek.github.io)
 [![Linux](https://img.shields.io/static/v1?label=OS&message=Linux&color=informational&style=flat&logo=linux&logoColor=white)](https://nipek.github.io) 
