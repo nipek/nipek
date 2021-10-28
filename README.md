@@ -2,8 +2,10 @@
 ### 🛠 Technologies and Tools
 
 [![Vim](https://img.shields.io/static/v1?label=Code&message=Vim&color=informational&style=flat&logo=vim&logoColor=white)](https://nipek.github.io) 
+[![Nginx](https://img.shields.io/static/v1?label=Tool&message=Nginx&color=informational&style=flat&logo=nginx&logoColor=white)](https://nipek.github.io) 
 [![Typescript](https://img.shields.io/static/v1?label=Code&message=Typescript&color=informational&style=flat&logo=typescript&logoColor=white)](https://nipek.github.io) 
 [![Node.js](https://img.shields.io/static/v1?label=Code&message=Node.js&color=informational&style=flat&logo=javascript&logoColor=white)](https://nipek.github.io)
+[![EJS](https://img.shields.io/static/v1?label=Code&message=EJS&color=informational&style=flat&logo=ejs&logoColor=white)](https://nipek.github.io) 
 [![React](https://img.shields.io/static/v1?label=Code&message=React.js&color=informational&style=flat&logo=react&logoColor=white)](https://nipek.github.io)
 [![React Native](https://img.shields.io/static/v1?label=Code&message=React-Native&color=informational&style=flat&logo=androidstudio&logoColor=white)](https://nipek.github.io)
 [![Mocha](https://img.shields.io/static/v1?label=Code&message=Mocha&color=informational&style=flat&logo=mocha&logoColor=white)](https://nipek.github.io)
