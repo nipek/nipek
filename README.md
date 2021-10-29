@@ -3,6 +3,7 @@
 
 [![Vim](https://img.shields.io/static/v1?label=Code&message=Vim&color=informational&style=flat&logo=vim&logoColor=white)](https://nipek.github.io) 
 [![Nginx](https://img.shields.io/static/v1?label=Tool&message=Nginx&color=informational&style=flat&logo=nginx&logoColor=white)](https://nipek.github.io) 
+[![Gulp](https://img.shields.io/static/v1?label=Tool&message=Gulp&color=informational&style=flat&logo=gulp&logoColor=white)](https://nipek.github.io) 
 [![Typescript](https://img.shields.io/static/v1?label=Code&message=Typescript&color=informational&style=flat&logo=typescript&logoColor=white)](https://nipek.github.io) 
 [![Node.js](https://img.shields.io/static/v1?label=Code&message=Node.js&color=informational&style=flat&logo=javascript&logoColor=white)](https://nipek.github.io)
 [![EJS](https://img.shields.io/static/v1?label=Code&message=EJS&color=informational&style=flat&logo=ejs&logoColor=white)](https://nipek.github.io) 
