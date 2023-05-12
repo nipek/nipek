@@ -25,7 +25,7 @@
 
 
 
-[![Nipek Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=nipek&layout=compact)](https://olanipekunife.github.io)
+[![Nipek Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=olanipekunife&layout=compact)](https://olanipekunife.github.io)
 
 
 
