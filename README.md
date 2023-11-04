@@ -25,11 +25,6 @@
 
 
 
-[![Nipek Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=olanipekunife&layout=compact)](https://olanipekunife.github.io)
-
-
-
-
 <!--
 **nipek/nipek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
